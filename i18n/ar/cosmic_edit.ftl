@@ -64,7 +64,7 @@ use-regex = Use regex
 # Menu
 
 ## File
-file = File
+file = ملف
 new-file = New file
 new-window = New window
 open-file = Open file...
